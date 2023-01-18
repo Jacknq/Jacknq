@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jacknq I'm Software architect and Fullstack Dev with 12y+ corporate experience, Fluent English and German
-- 👀 I’m interested in REMOTE work in Austrian market
+- 👀 I’m interested in REMOTE work in Austrian market, Im focused on specific progressive technologies
 - 🌱 I’m currently learning ... geojson
 - 💞️ I’m looking to collaborate on ... projects with technologies from my stack /Architecture, Front., Backend, Fullstack /
 - 📫 How to reach me : msg me
