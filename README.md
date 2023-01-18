@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jacknq I'm Software architect and Fullstack Dev
+- 👋 Hi, I’m @Jacknq I'm Software architect and Fullstack Dev with 12y+ corporate experience
 - 👀 I’m interested in REMOTE work in Austrian market
 - 🌱 I’m currently learning ... geojson
 - 💞️ I’m looking to collaborate on ... projects with technologies from my stack /Architecture, Front., Backend, Fullstack /
