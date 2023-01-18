@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jacknq
+- 👋 Hi, I’m @Jacknq im Software architect and Fullstack Dev
 - 👀 I’m interested in REMOTE work in Austrian market
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... geojson
+- 💞️ I’m looking to collaborate on ... projects with technologies from my stack /Architecture, Front., Backend, Fullstack /
 - 📫 How to reach me : msg me
 
 <!---
