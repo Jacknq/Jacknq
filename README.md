@@ -8,4 +8,4 @@
 Jacknq/Jacknq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Architecting system and application solutions with a high degree of complexity in critical production environment
+Architecting system and application solutions with a high degree of complexity in critical production environment, Agile
