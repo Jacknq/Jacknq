@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Jacknq I'm Software architect and Fullstack Dev with 12y+ corporate experience, Fluent in English and German
+- You can support my projects at https://ko-fi.com/nicework
 - 👀 I’m interested in REMOTE work in Austrian market, Im focused on specific progressive technologies
 - 🌱 I’m currently learning ... geojson
 - 💞️ I’m looking to collaborate on ... projects with technologies from my stack /Architecture, Front., Backend, Fullstack /
